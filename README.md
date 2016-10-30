@@ -1,2 +1,2 @@
 # In-My-Bag--Google-Hack
-GoogleHhackathon project 2016
+Google Hackathon project 2016
